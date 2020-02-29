@@ -1,12 +1,12 @@
 
-let clipboard = document.getElementById('clipboard');
-let generate = document.getElementById('generate');
-let lengthEl = document.getElementById('length');
-let lowercase = document.getElementById('lowercase');
-let numbers = document.getElementById('numbers');
-let result = document.getElementById('result');
-let symbols = document.getElementById('symbols');
-let uppercase = document.getElementById('uppercase');
+var clipboard = document.getElementById('clipboard');
+var generate = document.getElementById('generate');
+var lengthEl = document.getElementById('length');
+var lowercase = document.getElementById('lowercase');
+var numbers = document.getElementById('numbers');
+var result = document.getElementById('result');
+var symbols = document.getElementById('symbols');
+var uppercase = document.getElementById('uppercase');
 
 
 function getLower() {
