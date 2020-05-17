@@ -4,7 +4,7 @@
 (https://github.com/gwenniegwen/aGoodPasswordGenerator)
 
 ## Description
-This password generator was designed as part of the UCLA Full Stack Web Development Bootcamp
+This password generator was created as part of a homework assignment for the Full Stack Web Development Bootcamp at UCLA
 
 It was created with simple vanilla JavaScript
 
