@@ -30,6 +30,7 @@ To install necessary dependencies, run the following command: npm install or npm
 
 ## Screenshot
 
+![Capture](https://user-images.githubusercontent.com/55336348/82136874-3f080e00-97c7-11ea-9347-e0e376e5b529.PNG)
 
 ## License
 This project is licensed under the  license.
