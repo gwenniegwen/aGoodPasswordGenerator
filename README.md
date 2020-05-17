@@ -14,6 +14,8 @@ The user can select from the following:
 
 password length, uppercase, lower case, special characters, and/or numbers
 
+# Deployed Link: https://gwenniegwen.github.io/aGoodPasswordGenerator/
+
 ## Table of Contents
 
 * [Installation](#installation)
